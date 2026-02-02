@@ -1,4 +1,5 @@
 📊 SQL Sales Data Analysis
+
 📌 Project Overview
 This project focuses on analyzing a sales dataset using SQL to uncover insights related to pricing, discounts, product performance, customer behavior, and reviews. The objective is to support data-driven business decisions through structured querying and analysis.
 
